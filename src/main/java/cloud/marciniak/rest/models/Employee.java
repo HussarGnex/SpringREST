@@ -1,4 +1,4 @@
-package cloud.marciniak.rest;
+package cloud.marciniak.rest.models;
 
 import lombok.Data;
 
